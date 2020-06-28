@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/team-selector--react/static/css/main.fc000083.chunk.css",
+    "main.js": "/team-selector--react/static/js/main.920ba876.chunk.js",
+    "main.js.map": "/team-selector--react/static/js/main.920ba876.chunk.js.map",
+    "runtime-main.js": "/team-selector--react/static/js/runtime-main.0a5688c9.js",
+    "runtime-main.js.map": "/team-selector--react/static/js/runtime-main.0a5688c9.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/team-selector--react/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.88f8b51a.chunk.js": "/team-selector--react/static/js/2.88f8b51a.chunk.js",
+    "static/js/2.88f8b51a.chunk.js.map": "/team-selector--react/static/js/2.88f8b51a.chunk.js.map",
+    "index.html": "/team-selector--react/index.html",
+    "precache-manifest.e2f24482e647593811c5978990a25dd7.js": "/team-selector--react/precache-manifest.e2f24482e647593811c5978990a25dd7.js",
+    "service-worker.js": "/team-selector--react/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/team-selector--react/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.fc000083.chunk.css.map": "/team-selector--react/static/css/main.fc000083.chunk.css.map",
+    "static/js/2.88f8b51a.chunk.js.LICENSE.txt": "/team-selector--react/static/js/2.88f8b51a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/team-selector--react/static/media/stadium.982704ac.jpg",
+    "static/media/github_logo_white.png": "/team-selector--react/static/media/github_logo_white.d19bbdb4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a5688c9.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.88f8b51a.chunk.js",
+    "static/css/main.fc000083.chunk.css",
+    "static/js/main.920ba876.chunk.js"
+  ]
+}
